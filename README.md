@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is Jakub and I'm currently working as a full-stack developer at [Level.works](https://nl.level.works/).
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kmokrejs&title=Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
